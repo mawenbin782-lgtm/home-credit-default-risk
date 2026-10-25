@@ -1,0 +1,7 @@
+AUC_valid=0.7330
+KS_valid=0.3508
+AUC_train=0.7315
+KS_train=0.3472
+n_features=16
+features=['EXT_SOURCE_3', 'EXT_SOURCE_2', 'EXT_SOURCE_1', 'employment_years', 'age', 'OCCUPATION_TYPE', 'ORGANIZATION_TYPE', 'NAME_INCOME_TYPE', 'NAME_EDUCATION_TYPE', 'AMT_GOODS_PRICE', 'CODE_GENDER', 'AMT_CREDIT', 'id_publish_years', 'REGION_POPULATION_RELATIVE', 'registration_years', 'NAME_FAMILY_STATUS']
+score_formula=Score = 487.12 + 28.85 * ln(good/bad)

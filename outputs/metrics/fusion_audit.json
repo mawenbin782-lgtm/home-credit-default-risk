@@ -1,0 +1,14 @@
+{
+  "n_rows": 307511,
+  "n_unique_sk": 307511,
+  "n_dup_sk": 0,
+  "rows_preserved": true,
+  "target_rate": 0.08072881945686496,
+  "duplicate_columns": [],
+  "inf_columns": [],
+  "all_na_columns": [],
+  "target_missing": 0,
+  "n_features_total": 249,
+  "n_features_excluded_high_risk": 20,
+  "n_features_keep": 229
+}

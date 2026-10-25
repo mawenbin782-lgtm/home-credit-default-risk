@@ -1,0 +1,19 @@
+# 原始数据（Kaggle 下载，文件过大，不上传；见 README「数据来源」）
+data/
+
+# 特征工程中间产物（可由 scripts/ + pipeline/ 重新生成）
+features/
+
+# 大型模型/数据二进制产物（可由 pipeline 重新生成）
+outputs/data/
+outputs/models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
+Thumbs.db

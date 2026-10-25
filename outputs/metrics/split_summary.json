@@ -1,0 +1,10 @@
+{
+  "train_n": 246008,
+  "valid_n": 61503,
+  "train_target_rate": 0.08072908198107379,
+  "valid_target_rate": 0.08072776937710356,
+  "n_features": 229,
+  "n_numeric": 213,
+  "n_categorical": 16,
+  "n_excluded_high_risk": 20
+}
