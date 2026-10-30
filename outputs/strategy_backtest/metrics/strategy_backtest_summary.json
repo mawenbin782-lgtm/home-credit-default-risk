@@ -1,0 +1,9 @@
+{
+  "scope": "offline historical-label backtest and online A/B test design; not a deployed experiment",
+  "validation_n": 61503,
+  "historical_bad_rate_all_applicants": 0.08072776937710356,
+  "control_reject_top_rate": 0.05,
+  "treatment_reject_top_rate": 0.1,
+  "sample_size_per_group_matured_loans_illustrative": 11406,
+  "primary_online_metric": "MOB1 DPD30+ among approved loans, subject to local business definition"
+}
